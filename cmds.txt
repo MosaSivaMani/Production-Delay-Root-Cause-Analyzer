@@ -1,0 +1,4 @@
+streamlit run app.py
+  above command is to run the application
+
+  to quit press ctrl+c
